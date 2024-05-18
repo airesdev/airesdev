@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aires
+- 👀 I’m interested in front-end and Gamedev
+- 🌱 I’m currently learning Javascript and Node.js
+- 📫 You can reach me on discord: 
+- ⚡ Fun (and probably useless) fact: I am also an artist and musician B)
